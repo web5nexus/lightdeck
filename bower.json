@@ -1,0 +1,27 @@
+{
+  "name": "web5nexus-lightdeck",
+  "version": "3.7.0",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "homepage": "https://web5.nexus",
+  "license": "MIT",
+  "description": "The HTML Presentation Framework",
+  "authors": [
+    "Web5 Nexus <connect@web5.nexus>"
+  ],
+  "dependencies": {
+    "headjs": "~1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/web5nexus/lightdeck.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
